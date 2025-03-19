@@ -2,10 +2,10 @@
 
 I am a dedicated Computer Scientist and Researcher specializing in data analytics, data warehousing, web development, and virtual reality.  As a highly organized software engineer, I excel in designing and implementing research projects, translating complex data into actionable insights, and creating engaging learning resources.  Currently, I serve as a Psychology Technician at the [Institute of Art, Design + Technology](https://iadt.ie), where I guide staff and students in conducting research using immersive technologies.
 
-### 👨🏻‍💻 Experience
-- 💼 Psychology Technician, _[Institute of Art, Design + Technology](https://iadt.ie/)_ (2023 - Present)
-- 💼 Business Intelligence & Data Analyst, _[Currys PLC](https://www.currys.ie/)_ (2022 - 2023)
-- 💼 Assistant Lecturer & Researcher, _[Technological University Dublin](https://www.tudublin.ie/)_ (2020 - 2022)
+### 💼 Experience
+- 👨🏻‍💻 Psychology Technician, _[Institute of Art, Design + Technology](https://iadt.ie/)_ (2023 - Present)
+- 👨🏻‍💻 Business Intelligence & Data Analyst, _[Currys PLC](https://www.currys.ie/)_ (2022 - 2023)
+- 👨🏻‍💻 Assistant Lecturer & Researcher, _[Technological University Dublin](https://www.tudublin.ie/)_ (2020 - 2022)
 
 ### 🎓 Education
 - 📜 Pg.Cert. in Data Visualisation, _[Institute of Art, Design + Technology](https://iadt.ie/)_ (2025)
