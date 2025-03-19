@@ -1,6 +1,6 @@
 ## Hi, I'm Sean Henriques 👋🏻
 
-I am a dedicated Computer Scientist and Researcher specializing in data analytics, data warehousing, web development, and virtual reality. As a highly organized software engineer, I excel in designing and implementing research projects, translating complex data into actionable insights, and creating engaging learning resources. Currently, I serve as a Psychology Technician at the [Institute of Art, Design + Technology](https://iadt.ie), where I guide staff and students in conducting research using immersive technologies.
+I am a dedicated Computer Scientist and Researcher specializing in data analytics, data warehousing, web development, and virtual reality.  As a highly organized software engineer, I excel in designing and implementing research projects, translating complex data into actionable insights, and creating engaging learning resources.  Currently, I serve as a Psychology Technician at the [Institute of Art, Design + Technology](https://iadt.ie), where I guide staff and students in conducting research using immersive technologies.
 
 <!--
 **henriquessean/henriquessean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
